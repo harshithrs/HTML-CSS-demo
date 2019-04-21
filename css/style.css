@@ -1,0 +1,62 @@
+body{
+  background-color: black;
+}
+.jumbotron{
+    background-image: url("Images/ww1.jpg");
+    background-position: center;
+    color: aliceblue;
+}
+#boom{
+    background-color: black;
+    border-color: black;
+}
+#a1{
+    text-align: center;
+}
+#wrapper {
+    width:1000px;
+    clear:both;
+  }
+  #m2 {
+    width:300px;
+    float:left;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: black;
+    color:white ;
+    border-color: aliceblue;
+  }
+  #m3 {
+    width:300px;
+    float:left;
+    margin-right: 25px;
+    background-color: black;
+    color:white ;
+    border-color: aliceblue;
+  }
+  #m4 {
+    width:300px;
+    float:left;
+    background-color: black;
+    color:white ;
+    border-color: aliceblue;
+  }
+  a:hover{
+    background-color: aqua;
+  }
+  a:visited{
+    background-color: blueviolet;
+    border-color: blueviolet;
+  }
+  /*#sky{
+    background-color: black;
+    border-color: black;
+  }
+ /* #ler{
+    background-color: black;
+    border-color: black;
+  }
+ /* #hank{
+    background-color: black;
+    border-color: black;
+  }
